@@ -1,6 +1,7 @@
 {
   "name": "chat-app",
   "version": "0.1.0",
+  "homepage": "Shreyasahay245.github.io",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
